@@ -18,7 +18,9 @@ image_metadata:
   credit: Courtesy of the students on the Spiral Pine Needle Stove team. Used with
     permission.
   image-alt: Photo of a metal spiral with flame traveling around it.
+learning_resource_types: []
 resourcetype: Image
 title: ec-720js10-th.jpg
+type: OCWImage
 uid: 79b36c02-c0b1-4338-4abe-ac170fb97bd2
 ---

@@ -4,7 +4,12 @@ description: This resource contains information related to design, innovation, i
   and the design process.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ec-720j-d-lab-ii-design-spring-2010/0544f53d0d8501e7ea1e16d5dba634ba_MITEC_720JS10_lec02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: Design process and case studies'
+type: OCWFile
 uid: 0544f53d-0d85-01e7-ea1e-16d5dba634ba
 ---

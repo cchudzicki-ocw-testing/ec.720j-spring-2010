@@ -9,7 +9,11 @@ image_metadata:
   credit: Photos courtesy of Bernard Kiwia.
   image-alt: Photo of a man riding a bicycle mounted on a stand, with attached pump
     and hose assembly.
+learning_resource_types: []
+parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
+parent_type: CourseSection
 resourcetype: Image
 title: fig1a.jpg
+type: OCWImage
 uid: 0fe75ebe-1aa6-884a-19a5-486a1e9bc18d
 ---

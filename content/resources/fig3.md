@@ -8,7 +8,11 @@ image_metadata:
   credit: Photos coutesy of Nathan Cooke.
   image-alt: Photo of Suprio Das standing in front of a projected photo of a water
     well.
+learning_resource_types: []
+parent_title: 'D-Lab: Design hosts Indian inventor Suprio Das'
+parent_type: CourseSection
 resourcetype: Image
 title: fig3.jpg
+type: OCWImage
 uid: bd9507b9-fecc-2d12-cf68-2cb15f8cafdc
 ---

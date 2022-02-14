@@ -8,7 +8,11 @@ image_metadata:
   credit: ''
   image-alt: Paul Polak standing in front of the chalkboard, with seated students
     listening.
+learning_resource_types: []
+parent_title: 'D-Lab: Design hosts Paul Polak and Shawn Frayne'
+parent_type: CourseSection
 resourcetype: Image
 title: fig1.jpg
+type: OCWImage
 uid: d81b07b5-e6b0-77ed-897e-23835890aefc
 ---

@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12: Design for Manufacture'
-type: OCWFile
 uid: 31bc1da7-c606-61b5-8486-01aa2f9eba07
 ---

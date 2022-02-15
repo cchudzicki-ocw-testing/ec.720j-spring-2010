@@ -9,6 +9,5 @@ parent_title: Design Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Creative Capacity Building Design Notebook
-type: OCWFile
 uid: 19f3cb34-3445-4097-c65f-dfd90544de31
 ---

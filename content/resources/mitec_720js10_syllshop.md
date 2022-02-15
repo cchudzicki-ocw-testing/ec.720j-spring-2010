@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: D-Lab Shop Rules
-type: OCWFile
 uid: cf0cdf42-3957-237f-265f-daf6ec15ce02
 ---

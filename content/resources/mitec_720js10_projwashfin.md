@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Final Project Report: Movilavadora (Portable Bicilavadora)'
-type: OCWFile
 uid: c6819704-fd32-f1ec-c800-2d2de0d0aa47
 ---

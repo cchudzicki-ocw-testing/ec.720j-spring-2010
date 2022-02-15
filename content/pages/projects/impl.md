@@ -6,7 +6,6 @@ parent_title: Projects
 parent_type: CourseSection
 parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 title: 'Design Packet Phase 3: Implementation'
-type: CourseSection
 uid: 5614b82e-b4c0-f36d-4242-a706bc3047a5
 ---
 

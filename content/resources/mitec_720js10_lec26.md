@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 26: Penultimania, what''s next?'
-type: OCWFile
 uid: 7cefdcc8-ebc8-a427-e1a8-ed5b8e5a89a1
 ---

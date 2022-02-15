@@ -14,6 +14,5 @@ parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 parent_type: CourseSection
 resourcetype: Image
 title: fig1b.jpg
-type: OCWImage
 uid: 3794b001-7caf-5903-261f-027d224b1333
 ---

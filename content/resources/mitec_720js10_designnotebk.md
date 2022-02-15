@@ -9,6 +9,5 @@ parent_title: Design Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 'Design Notebook example: information gathering for phase change incubator'
-type: OCWFile
 uid: 13f5bc7a-a913-f7cb-797d-ccbb0610f5b9
 ---

@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Cast Corn Sheller (Solid Works Tutorial)
-type: OCWFile
 uid: 4974d72f-6e55-f3b8-12da-88af46058e3a
 ---

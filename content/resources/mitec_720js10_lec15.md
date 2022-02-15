@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Design for [X]: usability, affordability, sustainability, reuse,
   failure'
-type: OCWFile
 uid: cef8fe1b-2174-970f-b9af-067051b2c407
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Selected Design Challenges for 2010
-type: OCWFile
 uid: 56062fff-203c-fff9-c2c9-c62fecadd6a0
 ---

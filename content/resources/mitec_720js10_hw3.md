@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Technology Critique Worksheet
-type: OCWFile
 uid: af9dab7c-df14-9584-a0e9-8be651ea268b
 ---

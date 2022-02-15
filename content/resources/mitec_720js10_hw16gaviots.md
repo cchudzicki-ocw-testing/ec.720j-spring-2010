@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Book Group assignment sample: paper on Gaviotas'
-type: OCWFile
 uid: 29d74e7c-4098-7b1f-91f0-8f3ba4535780
 ---

@@ -21,6 +21,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: ec-720js10-th.jpg
-type: OCWImage
 uid: 79b36c02-c0b1-4338-4abe-ac170fb97bd2
 ---

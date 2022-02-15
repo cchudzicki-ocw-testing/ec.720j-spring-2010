@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Design Resources
-type: CourseSection
 uid: 076c7da4-6534-216f-761b-74b48c9f68d2
 ---
 

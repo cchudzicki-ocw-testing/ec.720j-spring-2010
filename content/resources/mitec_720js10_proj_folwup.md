@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Project Follow-up form
-type: OCWFile
 uid: fcb50f11-2938-287c-d63f-c6c1b9546a69
 ---

@@ -9,6 +9,5 @@ parent_title: Design Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Form for Student Evaluation of Mentors
-type: OCWFile
 uid: fd370d37-efeb-2d66-31c3-b7c451c6fdb5
 ---

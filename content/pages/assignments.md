@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Assignments
 title: Assignments
-type: CourseSection
 uid: 7de564ad-e990-22dc-2767-fa0ca78cc00d
 ---
 

@@ -12,6 +12,5 @@ parent_title: 'D-Lab: Design hosts Indian inventor Suprio Das'
 parent_type: CourseSection
 resourcetype: Image
 title: fig4.jpg
-type: OCWImage
 uid: d2c913f6-3439-23e4-d293-75c397f924ef
 ---

@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Case studies, Mini-Project introduction'
-type: OCWFile
 uid: 4eb0375b-0510-c898-8071-071133302de5
 ---

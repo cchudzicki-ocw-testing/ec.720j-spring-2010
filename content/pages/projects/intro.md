@@ -6,7 +6,6 @@ parent_title: Projects
 parent_type: CourseSection
 parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 title: 'Design Packet: Introduction'
-type: CourseSection
 uid: 847d1373-8175-d031-2e33-812b4a075e47
 ---
 

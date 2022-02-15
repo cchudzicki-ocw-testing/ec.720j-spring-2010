@@ -8,6 +8,5 @@ parent_title: Design Resources
 parent_type: CourseSection
 resourcetype: Document
 title: Design Mentor Guidelines
-type: OCWFile
 uid: 221d8fc6-e103-9db2-c531-f182586a9848
 ---

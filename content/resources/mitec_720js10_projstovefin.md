@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Final Project Report: Spiral Pine Needle Stove'
-type: OCWFile
 uid: 4b70af48-056f-59c6-7f48-5cda9736d93f
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework: Wheelchairs and Cook Stoves Assessment'
-type: OCWFile
 uid: 31ef0cd4-5324-4150-16f3-3bc63f764da3
 ---

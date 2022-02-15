@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Design Packet
-type: OCWFile
 uid: 2c6149f5-a276-a531-264f-04657539f064
 ---

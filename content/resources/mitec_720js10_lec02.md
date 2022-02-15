@@ -10,6 +10,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: Design process and case studies'
-type: OCWFile
 uid: 0544f53d-0d85-01e7-ea1e-16d5dba634ba
 ---

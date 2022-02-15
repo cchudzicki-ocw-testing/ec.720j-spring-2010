@@ -9,6 +9,5 @@ parent_title: Course Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Class Notebook
-type: OCWFile
 uid: af6f9625-69b6-b3a9-c9d7-88b5a751a73c
 ---

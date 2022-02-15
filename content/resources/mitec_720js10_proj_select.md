@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Project Selection Form
-type: OCWFile
 uid: ae362a9f-5714-fa97-d257-7a4491e38896
 ---

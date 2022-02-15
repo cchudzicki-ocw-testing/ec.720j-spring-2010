@@ -13,6 +13,5 @@ parent_title: 'Design Mini-Project: Low-Cost Rainwater Harvesting'
 parent_type: CourseSection
 resourcetype: Image
 title: fig1.jpg
-type: OCWImage
 uid: 6d3278d5-b706-4cf1-63b9-c740dc6d0c4c
 ---

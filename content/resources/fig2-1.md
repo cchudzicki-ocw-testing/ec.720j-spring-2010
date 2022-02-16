@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Shawn Frayne writing in a notebook while some students look on.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Paul Polak and Shawn Frayne'
 parent_type: CourseSection
 resourcetype: Image

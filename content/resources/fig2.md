@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of instructor Amy Smith with several students and a poster board.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Design Mini-Project: Low-Cost Rainwater Harvesting'
 parent_type: CourseSection
 resourcetype: Image

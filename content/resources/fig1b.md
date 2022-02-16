@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Close-up from prior photo showing water being pumped from a bucket through
     a long hose.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 parent_type: CourseSection
 resourcetype: Image

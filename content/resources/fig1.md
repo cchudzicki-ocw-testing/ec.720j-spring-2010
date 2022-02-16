@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of several students sitting around a table working on small paper
     cards.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Design Mini-Project: Low-Cost Rainwater Harvesting'
 parent_type: CourseSection
 resourcetype: Image

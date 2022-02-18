@@ -22,7 +22,7 @@ Textbooks
 Reading Assignments
 -------------------
 
-This table lists the reading assignments by due dates and their associated topics. ASSN # is the Reading Assignment number in reference to the course [calendar]({{< baseurl >}}/pages/calendar).
+This table lists the reading assignments by due dates and their associated topics. ASSN # is the Reading Assignment number in reference to the course {{< resource_link 941d511d-f895-24a7-0786-5e0927cb87b9 "calendar" >}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

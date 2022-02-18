@@ -31,7 +31,7 @@ Write short answers to the following questions and submit them to the class webs
 **Homework 3: Technology Critique**  
 _Due: Session 3_
 
-Technology Critique worksheet ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw3))
+Technology Critique worksheet ({{< resource_link af9dab7c-df14-9584-a0e9-8be651ea268b "PDF" >}})
 
 **{{< anchor "mini_project" >}}{{< /anchor >}}Homeworks 4–7:** **Mini Project – Affordable Rainwater Harvesting System**
 
@@ -118,7 +118,7 @@ The deliverable is the finished part, due in class. Teams meet after the modules
 **Homework 14: Idea Generation and Concept Evaluation**  
 _Due: Ses__sion_ _13_
 
-See descriptions in the [Design Packet, Phase 2]({{< baseurl >}}/pages/projects/ideas).
+See descriptions in the {{< resource_link 7ec2a491-2680-f360-db84-9406e364960d "Design Packet, Phase 2" >}}.
 
 This is a lot to get done in under a week, so I’d get cracking as soon as you can. Here’s how I’d approach it:
 
@@ -131,7 +131,7 @@ The new Design Notebook has examples for each step of the design process which w
 **Homework 15: Detail Design, Analysis and Experimental Results**  
 _Due: Ses__sion_ _17_
 
-See descriptions in the [Design Packet, Phase 3]({{< baseurl >}}/pages/projects/impl).
+See descriptions in the {{< resource_link 5614b82e-b4c0-f36d-4242-a706bc3047a5 "Design Packet, Phase 3" >}}.
 
 This assignment prepares for the Phase 3 Design Review of detail design, analysis and experimental results. 
 
@@ -154,13 +154,13 @@ This homework assignment consists of both a group deliverable and an individual 
 
 Both deliverables are intentionally short, so grading criteria will specifically include conciseness and synthesis, as well as writing style and quality.  Here are two examples:
 
-*   Slides on _Cradle to Cradle_ ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw16_cradle))
-*   Group writeup on _Gaviotas_ ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw16gaviots))
+*   Slides on _Cradle to Cradle_ ({{< resource_link 3a5e69f0-c604-224b-e169-9642b38110d0 "PDF" >}})
+*   Group writeup on _Gaviotas_ ({{< resource_link 29d74e7c-4098-7b1f-91f0-8f3ba4535780 "PDF" >}})
 
 **Homework 17: Wheelchairs and Cook Stoves Assessment**  
 _Due: Session 17_
 
-Worksheet for Homework 17 ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw17))
+Worksheet for Homework 17 ({{< resource_link 31ef0cd4-5324-4150-16f3-3bc63f764da3 "PDF" >}})
 
 **Homework 18: Design for Usability**  
 _Due: Session 17_

@@ -78,7 +78,7 @@ Write short answers to the following questions and submit them to the class webs
 **Homework 9: Project Selection**  
 _Due: Session 8_
 
-After the in-class presentations and discussion about the design challenges (Ses #8), fill out and submit the Project Selection form (found in the [Design Challenges]({{< baseurl >}}/pages/projects#Design_Challenges) section of the Projects page.)
+After the in-class presentations and discussion about the design challenges (Ses #8), fill out and submit the Project Selection form (found in the {{< resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Challenges" "#Design_Challenges" >}} section of the Projects page.)
 
 **Homeworks 10, 11, 13: Design Project Phase 1 – Information  
 **
@@ -89,12 +89,12 @@ This set of assignments prepares for and follows through on the Phase 1 Design R
 **Homework 10: Information Gathering**  
 _Due: Ses__sion_ _11_
 
-See description in the [Design Packet, Phase 1]({{< baseurl >}}/pages/projects#Information_Gathering).
+See description in the {{< resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Packet, Phase 1" "#Information_Gathering" >}}.
 
 **Homework 11: Problem Statement and Design Specifications**  
 _Due: Ses__sion_ _11_
 
-See descriptions in the [Design Packet, Phase 1]({{< baseurl >}}/pages/projects#Problem_Statement).
+See descriptions in the {{< resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Packet, Phase 1" "#Problem_Statement" >}}.
 
 **Homework 13: Refined Problem Definition and Product Specifications**  
 _Due: Ses__sion_ _12_
@@ -140,7 +140,7 @@ _NOTE_: Within one week after that review, each team is required to meet with th
 **Homework 16: Book Group**  
 _Due: Ses__sion_ _23_
 
-The four books that comprise [Reading Assignment]({{< baseurl >}}/pages/readings#For_the_Book) #7 are divided among four groups of students
+The four books that comprise {{< resource_link 8cf79971-3ec0-7248-49f7-a534d4ade705 "Reading Assignment" "#For_the_Book" >}} #7 are divided among four groups of students
 
 *   _Small is Beautiful_: 4 students
 *   _Gaviotas_: 6 students

@@ -94,7 +94,7 @@ Donaldson, Krista. "[Why to be Wary of 'Design for Developing Countries](http://
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Read the [Design Packet]({{< baseurl >}}/pages/projects#Design_Packet)
+Read the {{< resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Packet" "#Design_Packet" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 3
@@ -124,7 +124,7 @@ Read the [Design Packet]({{< baseurl >}}/pages/projects#Design_Packet)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Read the project [Design Challenges]({{< baseurl >}}/pages/projects#Design_Challenges)
+Read the project {{< resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Challenges" "#Design_Challenges" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 7

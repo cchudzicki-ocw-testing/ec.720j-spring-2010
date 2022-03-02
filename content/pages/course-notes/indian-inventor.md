@@ -13,7 +13,7 @@ uid: 96960d28-2ad0-954a-f601-954d8c49afc9
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: {{< resource_link 10999552-d6e4-9e27-8659-6670d978b383 "Course Notes" >}}
+« Back: {{% resource_link 10999552-d6e4-9e27-8659-6670d978b383 "Course Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

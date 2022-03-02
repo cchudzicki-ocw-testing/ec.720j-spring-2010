@@ -13,7 +13,7 @@ uid: 3e6ad560-8ed6-fc34-194f-dcaf86a6f11e
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: {{< resource_link 10999552-d6e4-9e27-8659-6670d978b383 "Course Notes" >}}
+« Back: {{% resource_link 10999552-d6e4-9e27-8659-6670d978b383 "Course Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

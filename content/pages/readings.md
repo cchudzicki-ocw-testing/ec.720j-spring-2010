@@ -56,7 +56,7 @@ DUE
 {{< tdopen >}}
 
 
-Hawthorne, Peter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Power to the People (PDF)](http://www.its.caltech.edu/~e105/readings/power-to-the-people.pdf)." _Time Magazine_, 1997.
+Hawthorne, Peter. "[Power to the People (PDF)](http://www.its.caltech.edu/~e105/readings/power-to-the-people.pdf)." _Time Magazine_, 1997.
 
 McNeil, D. G., Jr. "[A $3 Water Purifier That Could Save Lives](http://www.nytimes.com/2006/10/10/science/10find.html)," _The New York Times_, October 10, 2006. \[Story and video about an invention called [LifeStraw](http://www.vestergaard-frandsen.com/lifestraw)®\]
 
@@ -141,7 +141,7 @@ Read the project {{% resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design 
 {{< tdopen >}}
 
 
-Hotchkiss, R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Independence through Mobility (PDF - 1.6MB)_](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf). Edited by Lindi Ramsden. Appropriate Technology International, 1985. ISBN: 9789998942288.
+Hotchkiss, R. [_Independence through Mobility (PDF - 1.6MB)_](http://web.mit.edu/sp.784/www/DOCUMENTS/Independence%20through%20Mobility%20-%20Entire%20Document.pdf). Edited by Lindi Ramsden. Appropriate Technology International, 1985. ISBN: 9789998942288.
 
 Allen, H. _The Kenya Ceramic Jiko_. Practical Action, 1991. ISBN: 9781853390838.
 
@@ -207,7 +207,7 @@ Norman, Donald. "The Psychopathology of Everyday Things." and "Knowing What To D
 Green Design Toolkit:
 
 *   Hammond, G., and C. Jones. _Inventory of Carbon & Energy (ICE)_. Sustainable Energy Research Team (SERT), University of Bath, UK. Version 1.6, 2008.
-*   PRé Consultants. _Eco-indicator 99 Manual for Designers: A damage oriented method for Life Cycle Impact Assessment_. October 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](https://www.pre-sustainability.com/legacy/download/EI99_Manual.pdf))
+*   PRé Consultants. _Eco-indicator 99 Manual for Designers: A damage oriented method for Life Cycle Impact Assessment_. October 2000. ([PDF - 1.1MB](https://www.pre-sustainability.com/legacy/download/EI99_Manual.pdf))
 
 
 {{< tdclose >}}

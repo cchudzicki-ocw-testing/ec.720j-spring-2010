@@ -51,7 +51,7 @@ Introduction: design for development
 pp. 3–4
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cd705ed1-3dc6-e85b-7e78-6d456896bb42 "PDF - 5.0MB" %}})
+Slides ({{% resource_link cd705ed1-3dc6-e85b-7e78-6d456896bb42 "PDF - 5.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +395,7 @@ pp. 23–24
 {{< tdopen >}}
 
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cef8fe1b-2174-970f-b9af-067051b2c407 "PDF - 2.0MB" %}})
+Slides ({{% resource_link cef8fe1b-2174-970f-b9af-067051b2c407 "PDF - 2.0MB" %}})
 
 
 {{< tdclose >}}

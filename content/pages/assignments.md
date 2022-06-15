@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents descriptions of the homework assignments.
 draft: false
 learning_resource_types:
 - Assignments

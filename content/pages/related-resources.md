@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents additional resources on the D-Lab design process
+  and design mentoring.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Design Resources

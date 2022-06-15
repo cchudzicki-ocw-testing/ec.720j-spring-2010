@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the class projects, including initial descriptions
+  of design challenges and some sample student work on projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the class visit of guest speakers Paul Polak and
+  Shawn Frayne.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

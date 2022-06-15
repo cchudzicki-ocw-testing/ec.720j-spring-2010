@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: this page describes the class visit by D-Lab designer in residence Suprio
+  Das, and includes links to additional resources including online videos.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

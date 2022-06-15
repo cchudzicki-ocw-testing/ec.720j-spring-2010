@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This page summarizes D-Lab designer-in-residence Bernard Kiwia\u2019\
+  s class visit, and includes links to additional resources including online videos."
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

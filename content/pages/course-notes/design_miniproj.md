@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes the goals of the class mini-project.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

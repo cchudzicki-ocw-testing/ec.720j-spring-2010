@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course textbooks and lists the reading
+  assignments by due dates and their associated topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

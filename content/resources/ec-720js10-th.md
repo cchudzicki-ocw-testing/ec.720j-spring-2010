@@ -19,6 +19,7 @@ image_metadata:
     permission.
   image-alt: Photo of a metal spiral with flame traveling around it.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-720js10-th.jpg

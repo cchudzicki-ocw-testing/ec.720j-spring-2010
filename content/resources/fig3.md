@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of Suprio Das standing in front of a projected photo of a water
     well.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Indian inventor Suprio Das'
 parent_type: CourseSection

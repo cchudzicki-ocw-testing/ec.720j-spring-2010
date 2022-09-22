@@ -9,6 +9,7 @@ image_metadata:
   credit: Photo courtesy of Nathan Cooke.
   image-alt: Photo of Bernard Kiwia speaking to students in class.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/ec-720j-d-lab-ii-design-spring-2010/2c6149f5a276a531264f04657539f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
